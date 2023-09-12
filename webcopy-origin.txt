@@ -1,0 +1,212 @@
+Uri: https://code.jquery.com/jquery-2.2.4.js
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\jquery-2.2.4.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;500;600;700&display=swap
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v32/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_ArQXME.ttf
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\s\josefinsans\v32\Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_ArQXME.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v32/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_GbQXME.ttf
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\s\josefinsans\v32\Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_GbQXME.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v32/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_N_XXME.ttf
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\s\josefinsans\v32\Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_N_XXME.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v32/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_ObXXME.ttf
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\s\josefinsans\v32\Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_ObXXME.ttf
+Content Type: font/ttf
+
+Uri: https://megathon.in/
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\index.htm
+Content Type: text/html
+
+Uri: https://megathon.in/assets/megathon_logo.png
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\assets\megathon_logo.png
+Content Type: image/png
+
+Uri: https://megathon.in/css/bootstrap/bootstrap.min.css
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\css\bootstrap\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://megathon.in/css/owl.carousel.min.css
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://megathon.in/css/owl.theme.default.min.css
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\css\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://megathon.in/css/problems.css
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\css\problems.css
+Content Type: text/css
+
+Uri: https://megathon.in/css/starrysky.css
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\css\starrysky.css
+Content Type: text/css
+
+Uri: https://megathon.in/css/style-prev.css
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\css\style-prev.css
+Content Type: text/css
+
+Uri: https://megathon.in/css/style.css
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\css\style.css
+Content Type: text/css
+
+Uri: https://megathon.in/img/coords/Akshit_Gureja.jpg
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\img\coords\Akshit_Gureja.jpg
+Content Type: image/jpeg
+
+Uri: https://megathon.in/img/coords/Gokul_Praneetha.jpg
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\img\coords\Gokul_Praneetha.jpg
+Content Type: image/jpeg
+
+Uri: https://megathon.in/img/coords/Venika_Annam.jpg
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\img\coords\Venika_Annam.jpg
+Content Type: image/jpeg
+
+Uri: https://megathon.in/img/Landing/skylinT.png
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\img\Landing\skylinT.png
+Content Type: image/png
+
+Uri: https://megathon.in/img/nav.svg
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\img\nav.svg
+Content Type: image/svg+xml
+
+Uri: https://megathon.in/img/Prizes/bulb.png
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\img\Prizes\bulb.png
+Content Type: image/png
+
+Uri: https://megathon.in/img/Prizes/celo_glow.svg
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\img\Prizes\celo_glow.svg
+Content Type: image/svg+xml
+
+Uri: https://megathon.in/img/Prizes/eye.png
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\img\Prizes\eye.png
+Content Type: image/png
+
+Uri: https://megathon.in/img/Prizes/glow2.svg
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\img\Prizes\glow2.svg
+Content Type: image/svg+xml
+
+Uri: https://megathon.in/img/Prizes/glow3.svg
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\img\Prizes\glow3.svg
+Content Type: image/svg+xml
+
+Uri: https://megathon.in/img/Prizes/rupee.png
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\img\Prizes\rupee.png
+Content Type: image/png
+
+Uri: https://megathon.in/img/raj-reddy-center.png
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\img\raj-reddy-center.png
+Content Type: image/png
+
+Uri: https://megathon.in/img/sponsors/Qualcomm_Logo.png
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\img\sponsors\Qualcomm_Logo.png
+Content Type: image/png
+
+Uri: https://megathon.in/img/sponsors/stellantis.png
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\img\sponsors\stellantis.png
+Content Type: image/png
+
+Uri: https://megathon.in/js/index.js
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\js\index.js
+Content Type: application/javascript
+
+Uri: https://megathon.in/js/jquery-3.2.1.min.js
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\js\jquery-3.2.1.min.js
+Content Type: application/javascript
+
+Uri: https://megathon.in/js/owl.carousel.min.js
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://megathon.in/problem_statements
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\problem_statements.html
+Content Type: text/html
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/css/all.css
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\releases\v5.3.1\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.eot
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\releases\v5.3.1\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.eot?
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\releases\v5.3.1\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.svg
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\releases\v5.3.1\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.ttf
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\releases\v5.3.1\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.woff
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\releases\v5.3.1\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.woff2
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\releases\v5.3.1\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.eot
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\releases\v5.3.1\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.eot?
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\releases\v5.3.1\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.svg
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\releases\v5.3.1\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.ttf
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\releases\v5.3.1\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.woff
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\releases\v5.3.1\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.woff2
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\releases\v5.3.1\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.eot
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\releases\v5.3.1\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.eot?
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\releases\v5.3.1\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.svg
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\releases\v5.3.1\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.ttf
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\releases\v5.3.1\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.woff
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\releases\v5.3.1\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.woff2
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\releases\v5.3.1\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-154644271-1
+File Name: C:\Users\vishw\Desktop\web-copy\megathon.in\gtag\js
+Content Type: application/javascript
+
